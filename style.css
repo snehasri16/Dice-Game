@@ -1,0 +1,37 @@
+.container{
+    width: 70%;
+    margin:auto;
+    text-align:center;
+}
+
+.dice{
+     text-align: center;
+     display:inline-block;
+}
+
+body{
+    background-color: rgb(232, 188, 210);
+}
+
+h1{
+    margin:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 0;
+    font-size: 3rem;
+    color: #070788;
+}
+
+p{
+    margin-top: 50px;
+    font-size: 2rem;
+    color:rgb(35, 208, 188);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 70%;
+}
+footer{
+    margin-top: 100px;
+    color: #08011e;
+    text-align:center;
+}
